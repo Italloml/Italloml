@@ -1,7 +1,7 @@
 ## Sou Itallo Melo | Desenvolvedor
 
 - 🔭 Hoje trabalho como Front-end com foco em Reacjs, além de outras tecnologias
-- 🌱 Estudando programação no geral, sempre evoluindo para obter mais conhecimentos e habilidades.
+- 🌱 Estudando programação no geral, sempre evoluindo para obter mais conhecimentos e habilidades..
 
 
 <div style="display: inline_block"><br>
